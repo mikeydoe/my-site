@@ -1,9 +1,47 @@
-	body {
+body {
 		text-align: center;
 		margin-left: 200px;
 		margin-right: 200px;
+		border-color: blue;
+		border-style: solid;
 	}
 
-	img {
+img {
 		width: 600px;
 		}
+
+.title-page {
+
+font-family: helvetica;
+	
+
+}
+
+.main-nav {
+	font-family: Comic Sans MS;
+}
+
+ul {
+	font-family: helvetica;
+	font-size: 12pt;
+}
+
+section#form-section {
+
+	font-family: arial;
+	font-size: 15pt;
+
+}
+
+a:link {
+
+	color: blue;
+}
+
+a:visited {
+	color: red;
+}
+
+@media screen and (max-width: 600px) {
+  body, h1 {
+    font-size: 20px;
