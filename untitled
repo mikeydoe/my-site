@@ -1,0 +1,39 @@
+
+A client and server work hand in hand together in order to share information to the user. A client will send many requests for specific pieces of information from a server, the server will then accept those requests and return bits of information that the client will then display for the user. This displaying process is called rendering, the client is reading all of the coded information the server is sending and formats the information into a userfriendly aesthetic. 
+
+HTML is a coding language that formats text in simple manners. Using different tags and elements you can construct a basic document and add some basic attributes. 
+
+tag- a piece of code that will determine the layout of the page and how it is read. Tags are defined by brackets (<>) and to indicate a tag is ending there is a slash (</>). 
+
+element- An element is a component that you can use to create a document. Elements within a page are determined by its tag. If the tag is HTML then you can use HTML elements to construct your page. Every coding language has its own elements and thus you must determine the tag in the beginning. 
+
+node- Nodes are pieces of computer quipment attatched to a network. Everything within an HMTL page is a node, the document is a node, elements are element nodes and texts are text nodes. 
+
+attribute- Every element can have an attribute, attributes provide more specific information about an element. Attributes are specified in the start tag. 
+
+block element- A block element is a piece of code that usually uses specified dimensions for its use, therefore earning the name "block element". They always start on a new line.
+
+inline element- Does not start on a new line and only uses as much width as necessary. For an example, and image within an inline element will only take up as much space as the original size of the image. 
+
+head- the head element creates a header for your document
+
+body- the body element creates a body text for your document
+
+p- starts a new paragraph 
+
+form- creates a form that is submittable. Must input answer options and host server. 
+
+div- creates a seperate block element that you can format in CSS
+
+span- creates an inline element that you can format in CSS
+
+select- the select tag creates a drop down list that you can then create option values using the <option value=""> </option> tags. 
+
+h2- creates a different sized header for your document. 1-5 are all different sizes, 1 being the largest. 
+
+ol- creates an ordered list
+
+ul- creates an unordered list
+
+table- creates a table that you create rows and data with using the <tr> and <td> tags 
+
